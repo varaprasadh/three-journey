@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    z-index: -1;
+}
+
+section{
+    min-height: 100vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+}
+section > *{
+    max-width: 500px;
+}

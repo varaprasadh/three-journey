@@ -1,0 +1,11 @@
+Model Information:
+* title:	Male Base
+* source:	https://sketchfab.com/3d-models/male-base-4b0b500b7f224db99fbe66491f6dc868
+* author:	Nick Scott (https://sketchfab.com/Nickjjscott)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Male Base" (https://sketchfab.com/3d-models/male-base-4b0b500b7f224db99fbe66491f6dc868) by Nick Scott (https://sketchfab.com/Nickjjscott) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
